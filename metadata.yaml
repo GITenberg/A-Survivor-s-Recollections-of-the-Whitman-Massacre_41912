@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41425'
     url: http://www.gutenberg.org/2009/agents/41425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41912#A-Survivor-s-Recollections-of-the-Whitman-Massacre
 gutenberg_issued: '2013-01-25'
 gutenberg_type: Text
 identifiers:
