@@ -1,0 +1,30 @@
+_repo: A-Survivor-s-Recollections-of-the-Whitman-Massacre_41912
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41912-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sager, Matilda
+    aliases:
+    - Delaney, Matilda J. Sager, Mrs.
+    - Delaney, Matilda Jane Sager
+    birthdate: 1839
+    deathdate: 1928
+    gutenberg_agent_id: '41425'
+    url: http://www.gutenberg.org/2009/agents/41425
+description: ''
+gutenberg_issued: '2013-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41912'
+  lccn: '20009733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whitman, Marcus, 1802-1847'
+- !lcc 'F850.5'
+title: A Survivor's Recollections of the Whitman Massacre
+url: http://www.gutenberg.org/ebooks/41912
